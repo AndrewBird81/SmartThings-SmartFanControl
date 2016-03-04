@@ -17,7 +17,7 @@
  *
  */
 metadata {
-	definition (name: "SmartFanControl", namespace: "AndrewBird81", author: "ChadCK") {
+	definition (name: "SmartFanControl", namespace: "andrewbird81", author: "ChadCK") {
 		capability "Switch Level"
 		capability "Actuator"
 		capability "Indicator"
